@@ -1,0 +1,91 @@
+pre.prettyprint code {
+	background: none;
+	margin: 0;
+	padding:0;
+}
+
+div.mma-se-user {
+    font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
+    border: 1px solid #e0e0e0;
+    width: 164px;
+    padding: 17px;
+}
+
+div.mma-se-user h2{
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+
+div.mma-se-user div.avatar a {
+	text-decoration: none;
+	display: block;
+}
+
+div.mma-se-user .mma-se-reputation {
+    padding: 12px 0;
+    font-size: 22px;
+    font-weight: 300;
+    color: #292f33;
+    line-height: 1.3em;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div.mma-se-user .mma-se-reputation span {
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: 500;
+    color: #999999;
+    padding-left: 10px;
+}
+
+.mma-se-badges {
+    text-align: center;
+    font-size: 12px;
+}
+
+.mma-se-badges > span {
+    padding: 7px;
+    border-radius: 2px;
+    margin-right:4px;
+}
+
+.mma-se-badges .mma-se-symbol {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-right: 4px;
+    display: inline-block;
+}
+
+.mma-se-badge1 {
+    background: #fff8e2;
+    border: 1px solid #ece3c8;
+}
+
+.mma-se-badge1 .mma-se-symbol {
+    background: #fc0;
+    position: relative;
+    top: -1px
+}
+
+.mma-se-badge2 {
+    background: #edeeef;
+    border: 1px solid #e0e1e3;
+}
+
+.mma-se-badge2 .mma-se-symbol {
+    background: #c5c5c5;
+    position: relative;
+    top: -1px
+}
+
+.mma-se-badge3 {
+    background: #f9ebe1;
+    border: 1px solid #f1decc;
+}
+
+.mma-se-badge3 .mma-se-symbol {
+    background: #c96;
+}
